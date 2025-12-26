@@ -7,7 +7,7 @@ ___
 
 <p align="center">
   <a href="https://github.com/MRSHABAN45" target="_blank">
-    <img src="./Shaban/dev-gold-mini.svg" width="300" alt="Developer — MR SHABAN (Gold 3D)">
+    <img src="./Tariq/dev-gold-mini.svg" width="300" alt="Developer —MR Tariq (Gold 3D)">
   </a>
 </p>
 
