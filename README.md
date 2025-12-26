@@ -1,4 +1,4 @@
-![WELLCOME](Tariq-md/wellcome.svg)
+![WELLCOME](Tariq_md/wellcome.svg)
   
 ______
 
