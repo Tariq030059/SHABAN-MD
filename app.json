@@ -1,7 +1,7 @@
 {
-  "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
-  "keywords": ["SHABAN-MD"],
+  "name": "TARIQ-MD",
+  "description": "Javascript WhatsApp bot made by 𝐌𝐑 TARIQ",
+  "keywords": ["TARIQ-MD"],
   "success_url": "/",
   "stack": "container",
   "env": {
